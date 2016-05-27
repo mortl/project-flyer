@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/project-flyer":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/project-flyer","hostpath":"/Users/martin.benes/Code/project-flyer","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/martin.benes/Code/project-flyer","disabled":false,"__vagrantfile":true}}}
